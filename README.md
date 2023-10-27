@@ -5,9 +5,9 @@
 <br>No front-end foi utilizada a tecnologia React.
 <br>No back-end foi utilizada a tecnologia NodeJS.
 <br>
-<img src="https://github.com/filipeboneberge/first-project-react/blob/master/src/assets/print-home-responsivo.png">
+<img src="https://github.com/filipeboneberge/register-user-react/blob/main/src/assets/print-home-responsivo.png">
 <br>
-<img src="https://github.com/filipeboneberge/first-project-react/blob/master/src/assets/print-usuarios-responsivo.png">
+<img src="https://github.com/filipeboneberge/register-user-react/blob/main/src/assets/print-usuarios-responsivo.png">
 <br>
 <h2>:computer:Tecnologias Utilizadas</h2>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
